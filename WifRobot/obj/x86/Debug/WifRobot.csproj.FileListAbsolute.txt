@@ -1,0 +1,49 @@
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\bin\Debug\WifRobot.exe
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\bin\Debug\WifRobot.pdb
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifRobot.exe
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifRobot.pdb
+E:\机器人\WifRobot单机版\WifRobot\bin\Debug\WifRobot.exe
+E:\机器人\WifRobot单机版\WifRobot\bin\Debug\WifRobot.pdb
+E:\机器人\WifRobot单机版\WifRobot\bin\Debug\Interop.SpeechLib.dll
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\Interop.SpeechLib.dll
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifRobot.csproj.ResolveComReference.cache
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.csproj.ResolveComReference.cache
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.exe
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.pdb
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\bin\Debug\Interop.SpeechLib.dll
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Users\月夜喵哒哒\Desktop\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifRobot.csproj.ResolveComReference.cache
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\bin\Debug\WifRobot.exe
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\bin\Debug\WifRobot.pdb
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\bin\Debug\Interop.SpeechLib.dll
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Users\月夜喵哒哒\Desktop\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+C:\Users\月夜喵哒哒\Desktop\基于北斗定位的校园(居民区)自主巡逻机器人-\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\月夜喵哒哒\Desktop\基于北斗定位的校园(居民区)自主巡逻机器人-\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifRobot.csproj.ResolveComReference.cache
+C:\Users\月夜喵哒哒\Desktop\基于北斗定位的校园(居民区)自主巡逻机器人-\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Users\月夜喵哒哒\Desktop\基于北斗定位的校园(居民区)自主巡逻机器人-\未知环境探测及救援系统说明书  李孝杰\Wifi视频数传上位机\WifRobot\obj\x86\Debug\WifRobot.pdb
